@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	 background-position: center;
+	 background-size: cover;
+	 background-image: url('Calculater_background.jpg');
+}
+.btn:hover{
+    background-color:#6c76a8;
+    cursor: pointer;
+}
+.btn{
+	margin: 2px;
+	}
+.btn{
+  padding: 22px;
+  border-radius: 22px;
+  -moz-border-radius: 22px;
+  -webkit-border-radius: 22px;
+}
